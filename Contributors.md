@@ -4,3 +4,6 @@ Van Bacon
 Zak Laughton
 [@zlaughton](https://github.com/zlaughton)
 
+Bitsa
+[@mecpl](https://github.com/mecpl)
+
